@@ -1,0 +1,26 @@
+{
+  "name": "tty-strings-colorer",
+  "version": "1.0.0",
+  "description": "Colorer for TTY (TeleTYpewriter) Terminal/Console Written Strings",
+  "main": "src/main/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpbaking/tty-strings-colorer.git"
+  },
+  "keywords": [
+    "tty",
+    "strings",
+    "color",
+    "colorer",
+    "jpbaking"
+  ],
+  "author": "Joseph Baking <josephbaking.ph@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jpbaking/tty-strings-colorer/issues"
+  },
+  "homepage": "https://github.com/jpbaking/tty-strings-colorer#readme"
+}
