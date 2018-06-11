@@ -1,5 +1,7 @@
 # tty-strings-colorer
 
+### Version: 1.0.0
+
 Colorer for TTY (TeleTYpewriter) Terminal/Console Written Strings
 
 _[tty-strings-colorer](https://github.com/jpbaking/tty-strings-colorer) by [jpbaking](https://github.com/jpbaking)_
