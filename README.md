@@ -1,5 +1,28 @@
 # tty-strings-colorer
 
+> **DEPRECATED**
+>
+> This package is no longer maintained.
+>
+> **Limitations:**
+>
+> - Only ANSI 4-bit color (8 colors) — no extended 16-color, 256-color, or true color (RGB) support.
+> - No TTY detection — escape codes are emitted even when stdout is piped to a file, corrupting log files and CI output.
+> - No TypeScript types.
+> - No "bright" foreground/background color variants, which are standard in most terminals (`bright` here is a text format attribute, not a color modifier).
+> - Methods return different types depending on whether a string argument is passed, making the chaining API unintuitive.
+>
+> **Recommended alternatives:**
+>
+> | Package | True Color | TTY Detection | TypeScript |
+> |---|---|---|---|
+> | [chalk](https://github.com/chalk/chalk) | Yes | Yes | Yes |
+> | [picocolors](https://github.com/alexeyraspopov/picocolors) | No | Yes | Yes |
+> | [kleur](https://github.com/lukeed/kleur) | No | Yes | Yes |
+> | [ansi-colors](https://github.com/doowb/ansi-colors) | No | Yes | Yes |
+>
+> [chalk](https://github.com/chalk/chalk) is the de facto standard and covers everything this package does and more. [picocolors](https://github.com/alexeyraspopov/picocolors) is the go-to when minimal bundle size matters.
+
 ### Version: 1.0.0
 
 Colorer for TTY (TeleTYpewriter) Terminal/Console Written Strings
