@@ -1,6 +1,6 @@
 {
   "name": "tty-strings-colorer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Colorer for TTY (TeleTYpewriter) Terminal/Console Written Strings",
   "main": "index.js",
   "scripts": {

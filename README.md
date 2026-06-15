@@ -23,7 +23,7 @@
 >
 > [chalk](https://github.com/chalk/chalk) is the de facto standard and covers everything this package does and more. [picocolors](https://github.com/alexeyraspopov/picocolors) is the go-to when minimal bundle size matters.
 
-### Version: 1.0.0
+### Version: 1.0.1
 
 Colorer for TTY (TeleTYpewriter) Terminal/Console Written Strings
 
