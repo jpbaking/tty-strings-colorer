@@ -18,7 +18,7 @@
     "jpbaking"
   ],
   "author": "Joseph Baking <josephbaking.ph@gmail.com>",
-  "license": "MIT",
+  "license": "0BSD",
   "bugs": {
     "url": "https://github.com/jpbaking/tty-strings-colorer/issues"
   },
